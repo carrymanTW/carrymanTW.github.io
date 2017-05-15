@@ -121,6 +121,9 @@ header .intro-text .skills {
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
+.navbar-custom .navbar-nav li {
+  border-radius: 5px;
+}
 .navbar-custom .navbar-nav li a {
   color: white;
 }
