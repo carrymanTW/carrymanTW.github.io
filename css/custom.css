@@ -13,12 +13,13 @@
   }
 }
 
-#progress div p {
-  line-height: 1.7;
+#story div p {
+  line-height: 1.9;
+  font-size: 23px;
 }
 
 .vcenter {
   display: inline-block !important;
-  align-self: center !important;
+  vertical-align: middle !important;
   float: none !important;
 }
