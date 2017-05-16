@@ -12,3 +12,13 @@
     padding: 15px 15px 15px 0;
   }
 }
+
+#progress div p {
+  line-height: 1.7;
+}
+
+.vcenter {
+  display: inline-block !important;
+  align-self: center !important;
+  float: none !important;
+}
