@@ -18,6 +18,10 @@
   font-size: 23px;
 }
 
+#story div i {
+  color: #f56e8f;
+}
+
 .vcenter {
   display: inline-block !important;
   vertical-align: middle !important;
