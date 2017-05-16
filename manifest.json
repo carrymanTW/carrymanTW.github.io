@@ -3,19 +3,9 @@
   "name": "A Live students' helper! Anytime, Anywhere",
   "icons": [
     {
-      "src": "carryman-logo.jpg",
-      "type": "image/jpg",
+      "src": "img/touch/icon-128x128.png",
+      "type": "image/png",
       "sizes": "48x48"
-    },
-    {
-      "src": "carryman-logo.jpg",
-      "type": "image/jpg",
-      "sizes": "96x96"
-    },
-    {
-      "src": "carryman-logo.jpg",
-      "type": "image/jpg",
-      "sizes": "192x192"
     }
   ],
   "start_url": "",
